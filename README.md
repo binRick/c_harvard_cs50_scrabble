@@ -3,8 +3,8 @@
 ## Runtime:
 ![screenshot0](./screenshot0.png)
 
-# Makefile:
+## Makefile:
 ![screenshot1](./screenshot1.png)
 
-# Check:
-![screenshot2](./screenshot2.png)
+## Check:
+![check0](./check0.png)
