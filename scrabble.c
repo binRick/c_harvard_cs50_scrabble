@@ -33,7 +33,7 @@ int main(void){
     }
     
        if(score1 == score2){
-        printf("Tie2!\n");
+        printf("Tie!\n");
         return(0);
        }
        if(score1 > score2){
