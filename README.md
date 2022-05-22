@@ -7,4 +7,4 @@
 ![screenshot1](./screenshot1.png)
 
 # Check:
-![screenshot1](./screenshot2.png)
+![screenshot2](./screenshot2.png)
